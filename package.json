@@ -13,5 +13,13 @@
   },
   "dependencies": {
     "underscore": "^1.13.6"
-  }
+  },
+  "description": "pasos para ejecutar el proyecto:",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
