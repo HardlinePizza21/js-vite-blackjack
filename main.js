@@ -1,7 +1,6 @@
 import './style.css'
 import _ from 'underscore'
 
-
 /**
  * 2C = Two of Clubs
  * 2D = Two of Diamonds
